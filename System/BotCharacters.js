@@ -257,14 +257,14 @@ global.charID16 = {
 
 
 global.charID17 = {
-  botName : "Yor",
-  botVideo : "https://graph.org/file/8817be3a15ed5c02debf7.mp4",
-  botImage1 : "https://images7.alphacoders.com/123/1236729.jpg",
-  botImage2 : "https://images7.alphacoders.com/122/1229718.jpg",
-  botImage3 : "https://images.alphacoders.com/123/1238264.jpg",
-  botImage4 : "https://images4.alphacoders.com/123/1233274.jpg",
-  botImage5 : "https://images.alphacoders.com/124/1241835.png",
-  botImage6 : "https://images4.alphacoders.com/123/1235462.jpg",
+  botName : "Kirari",
+  botVideo : "https://pin.it/5exJVBa",
+  botImage1 : "https://pin.it/4VoI8vP",
+  botImage2 : "https://pin.it/5Nb7D4Z",
+  botImage3 : "https://pin.it/ervp2E7",
+  botImage4 : "https://pin.it/6XRvQAv",
+  botImage5 : "https://pin.it/E8ySVaZ",
+  botImage6 : "https://pin.it/13cnPCQ",
 }
 
 
